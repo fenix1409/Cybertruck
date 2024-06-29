@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: cursive;
+    background-color: black;
+    
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+/* header starts */
+.site-header {
+  height: 100vh;
+  padding: 50px 0 100px;
+   text-align: center;
+   background-image: url(../images/truckimg.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 100%;
+}
+.site-logo-link {
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.header-title {
+    margin-bottom: 300px;
+}
+.header-order-link {
+    display: inline-block;
+    width: 221px;
+    text-align: center;
+    border: 2px solid white;
+    padding: 14px 0;
+    color: white;
+}
+/* header ends */
+/* hero section starts */
+.hero-section {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.container {
+    width: 1170px;
+}
+.hero {
+    display: flex;
+    align-items: center;
+    padding-bottom: 100px;
+}
+.hero-text-wrapper {
+    width: 528px;
+    height: 180px;
+    padding-top: 20px;
+    padding-bottom: 94px;
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+}
+.hero-title {
+    padding-bottom: 24px;
+    font-family: 'DM Sans',sans-serif;
+    color: white;
+}
+.hero-img {
+    margin-left: 42px;
+}
+
+/* hero section ends */
+/* utility section starts */
+.utility-section{
+    padding-bottom: 200px;
+}
+.container {
+    width: 1170px;
+}
+.utility {
+    width: 972px;
+    padding-bottom: 26px;
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans',sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.utility-title {
+    padding-bottom: 26px;
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans',sans-serif;
+font-size: 28px;
+font-weight: 600;
+line-height: -1px;
+letter-spacing: 0%;
+}
+.utility-tetx {
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans',sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+}
+.utility-title-second{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+/* utility section ends */
+/* performance section starts */
+.performance-section {
+    padding-bottom: 200px;
+}
+.container {
+    width: 1170px;
+}
+.performance-title {
+    padding-bottom: 20px;
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans',sans-serif;
+font-size: 28px;
+font-weight: 600;
+line-height: -1px;
+letter-spacing: 0%;
+}
+.performance-text {
+    padding-bottom: 32px;
+    color: rgb(255, 255, 255);
+font-family: 'DM Sans',sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+}
+.performance-img {
+}
+/* performance ends */
+/* footer section starts */
+.footer-img{
+    padding-bottom: 100px;
+    margin-left: 85px;
+}
+/* footer section ends */
